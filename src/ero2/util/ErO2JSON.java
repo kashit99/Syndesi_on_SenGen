@@ -22,7 +22,7 @@ public class ErO2JSON {
       Hashtable<String, ErO2Service> serviceRegistry) {
 
     Enumeration<String> serviceKeys = serviceRegistry.keys();
-    String ip = "129.194.69.178";
+    String ip = "129.194.69.192";
     URIBuilder builder = null;
     URIBuilder uri_b = null;
     //uri_b.addParameter("t", "search");
